@@ -1,0 +1,11 @@
+OB-Tool/
+FormatConverter/bin/
+FormatConverter/Properties/
+FormatConverter/obj/
+*.config
+*.sln
+*.csproj
+*.user
+*.settings
+*.zip
+*.suo
