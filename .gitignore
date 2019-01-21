@@ -1,7 +1,7 @@
 OB-Tool/
 FormatConverter/bin/
-FormatConverter/Properties/
 FormatConverter/obj/
+FormatConverter/Properties/
 *.config
 *.sln
 *.csproj
